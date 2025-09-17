@@ -1,0 +1,1 @@
+import{_ as a,c as o,j as c,f as e,t as s}from"./index-D-R_tuRR.js";const n={class:"box-xk"},i={class:"title"},r={class:"wa"},_={__name:"BgBoard",props:{title:String,wengan:String},setup(t){return(d,l)=>(o(),c("div",n,[e("div",i,s(t.title),1),e("div",r,s(t.wengan),1)]))}},g=a(_,[["__scopeId","data-v-afb2ea96"]]);export{g as B};
